@@ -1,2 +1,2 @@
-"# stone-paper-game.py" 
-"# stone-paper-game.py" 
+"# python.py" 
+"# python.py" 
